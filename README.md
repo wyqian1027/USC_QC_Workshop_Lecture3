@@ -5,10 +5,12 @@ Mar 2, 2025
 See our full event: [https://indico.cern.ch/event/1480598/overview](https://indico.cern.ch/event/1480598/overview)
 
 ## Cloud Qiskit Environment
-[Google Colab](https://colab.research.google.com/drive/1fu7SgtxaIrjAZ4hY6PF0euoPHLobljNy?usp=sharing)
+Simply run this [Google Colab](https://colab.research.google.com/drive/1fu7SgtxaIrjAZ4hY6PF0euoPHLobljNy?usp=sharing)
 
 
-## Installation for Local Qiskit Environment
+## Local Qiskit Environment
+
+Download this folder and create a Conda environment on your computer.
 
 Step 1. Create a Conda environment called "my_env"
 ```bash

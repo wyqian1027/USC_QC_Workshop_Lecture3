@@ -1,4 +1,9 @@
-# Installation for Qiskit Environment
+# USC_QC_Workshop_Lecture3
+
+Wenyang Qian   
+Mar 2, 2025   
+
+## Installation for Qiskit Environment
 Step 1. Create a Conda environment called "my_env"
 ```bash
 conda create -n my_env python=3.11

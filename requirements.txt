@@ -1,0 +1,10 @@
+qiskit==1.3
+qiskit-aer
+qiskit_algorithms
+matplotlib
+pylatexenc
+numpy
+networkx
+scipy
+ipywidgets
+jupyterlab
